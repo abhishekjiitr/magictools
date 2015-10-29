@@ -395,7 +395,7 @@ Lessons
 * [Udacity: HTML5 Game Development](https://www.udacity.com/course/cs255)
 * [Coursera: Intoduction to interactive Python programming](https://www.coursera.org/course/interactivepython)
 * [HandmadeHero: making 2D game from scratch](http://handmadehero.org/)
-
+* [Simple HTML5 Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)
 ### Computer Graphics
 
 * [Interactive 3D Graphics](https://www.udacity.com/course/cs291)
